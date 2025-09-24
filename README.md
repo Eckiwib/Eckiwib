@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eckiwib
 - 👀 I’m interested in Science, Computer Science, video editing, vfx, 3D-modeling (with Blender and Davinci Resolve) and complicated and/or ethical questions.
-- 🌱 I’m currently learning Python, C++ for Arduino, Blender, Minecraft PVP :-)
+- 🌱 I’m currently learning Python, Blender, Minecraft PVP and Calisthenics:-)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : My username is the same on Discord.
 - I'm from Germany and 15 years old
